@@ -1,0 +1,13 @@
+# MetaTrader / MQL5 build artifacts
+*.ex5
+*.log
+
+# Local editor and agent metadata
+.agents/
+.codex/
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+~$*
